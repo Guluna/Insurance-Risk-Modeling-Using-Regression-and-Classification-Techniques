@@ -1,5 +1,5 @@
 
-**Objective:** Developed predictive models to estimate expected insurance losses and claim probabilities, addressing the industry challenge of premium mispricing and adverse selection.
+**Objective:** Developed predictive models to estimate expected automotive insurance losses and claim probabilities, addressing the industry challenge of premium mispricing and adverse selection.
 
 **Data Engineering:** Processed a dataset of 37,451 policy records by engineering features such as policy duration and driver experience, while addressing zero-inflated and right-skewed distributions common in insurance data.
 
